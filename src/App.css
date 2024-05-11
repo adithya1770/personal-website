@@ -1,0 +1,27 @@
+.bg-image{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/004/933/932/original/pixel-gradient-background-illustration-vector.jpg");
+}
+
+.briem-hand-500 {
+  font-family: "Briem Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.shadow0{
+    text-shadow: 1px 1px 1px black;
+}
+img{
+    mix-blend-mode: multiply;
+}
+.press-start-2p-regular {
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  } 
+.source-code-pro-500 {
+    font-family: "Source Code Pro", monospace;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
