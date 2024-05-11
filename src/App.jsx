@@ -9,7 +9,7 @@ function App() {
   return (
    <div className='bg-image bg-cover bg-center h-screen source-code-pro-500'>
     <div className='h-36 w-32 bg-white absolute top-5 left-12 rounded-full'>
-      <img src="./comp.png" className='h-36 w-32 absolute rounded-full'/>
+      <img src="./assets/comp.png" className='h-36 w-32 absolute rounded-full'/>
     </div>
       <center><br />
       <div className='float-right flex'>
