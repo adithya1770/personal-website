@@ -25,3 +25,12 @@ img{
     font-weight: 500;
     font-style: normal;
   }
+.bg-pixel{
+  background-image: url("https://img.freepik.com/free-photo/pixelated-background-with-blue-shades_23-2149701487.jpg");
+}
+.bg-pixelred{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHLLL33sfAIV1XDkLjaPvPRTePXDlE1FfKFyRFhi0c_KfZFNQgU6wDIDn14V0MEnxUzo0&usqp=CAU");
+}
+.bg-pixelgreen{
+  background-image: url("https://as2.ftcdn.net/v2/jpg/04/19/55/87/1000_F_419558798_3wKoEuONS3exHtMccMCUbO3rMVLrdJAX.jpg");
+}
