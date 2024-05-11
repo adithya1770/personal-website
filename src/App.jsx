@@ -19,7 +19,7 @@ function App() {
     </center>
     <br />
     <div className='lg:mt-52 lg:mr-80 text-center text-4xl'>
-    <h1 className='lg:text-3xl sm:text-5xl font-bold hover:text-6xl'>(ʕ •ᴥ•ʔ )</h1>
+    <h1 className='lg:text-3xl sm:text-5xl font-bold hover:text-6xl'>(ʕ •-•ʔ )</h1>
       <h1 className='text-3xl sm:text-6xl md:text-5xl lg:text-8xl font-bold'>Hello!</h1>
       <h3 className='text-xl sm:text-4xl md:text-3xl lg:text-6xl font-semibold'>It's me <i><b>Adithya</b></i></h3>
     </div>
