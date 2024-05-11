@@ -1,11 +1,11 @@
 function Projects(){
     return(
-        <div className="lg:flex lg:w-96 lg:h-96 absolute lg:top-44 lg:right-44 font-semibold lg:text-3xl lg:text-justify sm:h-5 sm:w-96 sm:bottom-72 sm:right-24">
+        <div className="lg:flex lg:w-96 lg:h-96 absolute lg:top-44 lg:right-44 font-semibold lg:text-3xl lg:text-justify h-28 w-64 bottom-96 right-12">
             <ul>
-                <li><i><b>To'N'Do</b></i> : A todo app made using ExpressJS</li>
-                <li><i><b>OpenMath</b></i> : A Matrix calculator and Math Website</li>
-                <li><i><b>Farmy</b></i> : Web portal for famers(Beta)</li>
-                <li><i><b>SaveLyf</b></i> : Alcohol Detector using RaspberryPI</li>
+                <li><b><a href="https://github.com/adithya1770/To-N-Do">To'N'Do</a></b> : A todo app made using ExpressJS</li>
+                <li><b><a href="https://github.com/adithya1770/sceptix-webapp">OpenMath</a></b> : A Matrix calculator and Math Website</li>
+                <li><b><a href="https://github.com/adithya1770/learn-react">Farmy</a></b> : Web portal for famers(Beta)</li>
+                <li><b>SaveLyf</b> : Alcohol Detector using RaspberryPI</li>
             </ul>
         </div>
     )
