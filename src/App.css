@@ -34,3 +34,6 @@ img{
 .bg-pixelgreen{
   background-image: url("https://as2.ftcdn.net/v2/jpg/04/19/55/87/1000_F_419558798_3wKoEuONS3exHtMccMCUbO3rMVLrdJAX.jpg");
 }
+.text-mult{
+  background-image: linear-gradient(rgb(68, 152, 232), rgb(51, 236, 51));
+}
