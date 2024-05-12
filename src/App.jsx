@@ -45,9 +45,9 @@ function App() {
       <Route path="/info" element={<Info />} />
       <Route path="/projects" element={<Projects />} />
     </Routes>
-      <div className='h-32 w-32 bg-white absolute lg:top-12 rounded-full lg:left-10 left-8 bottom-16 shadow-lg shadow-black'>
+      <div className='h-32 w-32 bg-white absolute lg:top-12 rounded-3xl lg:left-10 left-8 bottom-16 shadow-lg shadow-black'>
       <span class="material-symbols-outlined absolute lg:top-5 lg:left-52 text-8xl text-mult rounded-full left-44 hover:text-white" onClick={thumbsUp} id="thumb">recommend</span>
-        <img src="./assets/comp.png" className='h-32 w-32 rounded-full'/>
+        <img src="./assets/img3.jpeg" className='h-32 w-32 rounded-3xl'/>
       </div>
   </div>
   )
