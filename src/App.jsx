@@ -41,7 +41,7 @@ function App() {
     <br />
     <div className='lg:mt-52 lg:mr-80 text-center text-4xl'>
     <h1 className='lg:text-3xl sm:text-4xl font-bold hover:text-5xl hover:text-blue-500' onMouseOver={alert1} id="bear">(ʕ •-•ʔ )</h1>
-      <h1 className='text-6xl sm:text-8xl md:text-5xl lg:text-8xl font-bold '>Hello!</h1>
+      <h1 className='text-6xl sm:text-8xl md:text-5xl lg:text-8xl font-bold'>Hello!</h1>
       <h3 className='text-xl sm:text-4xl md:text-3xl lg:text-6xl font-semibold typewriter'>It's me <i><b className='lg:text-6xl text-2xl'>Adithya!!</b></i></h3>
     </div>
     
