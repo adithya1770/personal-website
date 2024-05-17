@@ -37,3 +37,29 @@ img{
 .text-mult{
   background-image: linear-gradient(rgb(68, 152, 232), rgb(51, 236, 51));
 }
+.typewriter{
+  color: #000000;
+  overflow: hidden; 
+  border-right: .15em solid #4285F4; 
+  white-space: nowrap; 
+  margin: 0 auto; 
+  letter-spacing:2px; 
+  animation: 
+    typing 3.5s steps(30, end),
+    blink-caret .5s step-end infinite,
+    cursor-disappear 2.6s forwards; 
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: #000000 }
+}
+
+@keyframes cursor-disappear {
+  to { border-color: transparent; } 
+}
