@@ -1,14 +1,19 @@
 .custom-scrollbar::-webkit-scrollbar {
-    width: 12px; 
+    width: 0px; 
   }
   
 .custom-scrollbar::-webkit-scrollbar-thumb {
-    background-image: url("https://i.pinimg.com/564x/20/f3/c9/20f3c9890a3e31f83bcba961e21d0d0e.jpg"); 
     border-radius: 6px; 
+    mix-blend-mode: multiply;
   }
   
 .custom-scrollbar::-webkit-scrollbar-track {
     background-color: #f1f1f1; 
     border-radius: 6px;
   }
-  
+.neg{
+  right:-2;
+}
+zee{
+  z-index: -1;
+}

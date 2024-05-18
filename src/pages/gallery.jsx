@@ -1,9 +1,16 @@
 function Gallery(){
 
     return(
-        <div className="lg:w-96 lg:h-96 absolute lg:top-44 lg:right-44 lg:text-6xl text-2xl sm:text-center h-64 w-80 bottom-44 right-6 rounded-xl bg-white custom-scrollbar overflow-scroll">
-            <img src="./assets/pic1.jpeg" className="lg:h-52 lg:w-full h-44 w-full rounded-xl"/>
-            <img src="./assets/pic2.jpeg" className="lg:h-44 lg:w-full mt-26 rounded-xl"/>
+        <div className="grid grid-rows-2 sm:grid-cols-1 lg:h-96 lg:w-96 bg-white absolute lg:right-20 lg:top-52 rounded-3xl top-96 right:2 h-48 w-82 overflow-y-scroll custom-scrollbar border-4 border-white">
+            <div>
+                <img src="./assets/pic1.jpeg" className="h-full max-w-full"/>
+            </div><br />
+            <div>
+                <img src="./assets/pic3.jpeg" className="h-full max-w-full"/>
+            </div>
+            <div>
+                <img src="./assets/pic2.jpeg" className="h-full max-w-full"/>         
+            </div>
         </div>
     )
 }
